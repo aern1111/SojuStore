@@ -2,7 +2,7 @@
   <div>
     <v-container>
     <v-row justify="space-around">
-      <v-card color="#E0E0F3" width="3000px">
+      <v-card color="#E0E0F3" width="3000">
         <v-img
           height="350px"
           src="https://cdn.pixabay.com/photo/2015/03/14/19/45/suit-673697_960_720.jpg"
